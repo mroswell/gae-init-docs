@@ -5,7 +5,7 @@
 -------------------------------------------------------------------------------
 
 Use fenced code blocks (like GitHub) by wrapping your code with ` ``` ` and
-preferable followed by the language for proper highlighting.
+preferably followed by the language for proper highlighting.
 
 ```markdown
  ```python
